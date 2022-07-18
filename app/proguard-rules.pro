@@ -199,3 +199,5 @@
 }
 
 -keep class com.github.catvod.crawler.*{*;}
+# 20220718我自己加的加入迅雷磁力
+-keep class com.xunlei.downloadlib.**{*;}
